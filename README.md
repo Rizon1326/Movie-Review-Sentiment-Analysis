@@ -25,6 +25,7 @@ This project is a Streamlit-based web app that enables two functionalities:
        pip install -r requirements.txt
  ### 4.Install dependencies:
        streamlit run app.py
+       
 
 # 📂 File Structure
 ```bash
@@ -35,6 +36,15 @@ This project is a Streamlit-based web app that enables two functionalities:
  ┣ 📜tfidf.pkl
  ┣ 📜requirements.txt
  ┗ 📜README.md
+***
+# 
+# 🧰 Dependencies
+ -Streamlit: The frontend framework used to create the web application.
+ -NLTK: For text preprocessing, including tokenization and stopword removal.
+ -Scikit-learn: To perform TF-IDF vectorization and cosine similarity calculations.
+ -PyPDF2: For extracting text from PDF resumes.
+ -docx2txt: For extracting text from DOCX files.
+
 
  
 
