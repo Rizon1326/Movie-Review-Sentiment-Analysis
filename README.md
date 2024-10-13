@@ -20,7 +20,7 @@ This project is a Streamlit-based web app that enables two functionalities:
  ### 1. Clone the repository: 
        https://github.com/Rizon1326/Movie-Review-Sentiment-Analysis.git      
  ### 2. Navigate to the project directory:
-       cd resume-screening-matching
+       cd Resume_Detection
  ### 3. Install dependencies:
        pip install -r requirements.txt
  ### 4. Run the app:
@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/ad224223-0591-4268-a55e-59e6662db234
   - Navigate to the "Resume Matching" page from the sidebar.
   - Input the job description and upload resumes to find the best matches for the position.
 # 👨‍💻 Author
- ### - @Rizon
+ ###  @Rizon
 # 💡 Fun Fact
 - This app uses cosine similarity to match resumes to a job description. Cosine similarity measures the angle between two vectors in a multi-dimensional space, making it perfect for comparing text documents!
 
