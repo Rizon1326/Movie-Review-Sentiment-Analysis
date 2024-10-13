@@ -38,11 +38,11 @@ This project is a Streamlit-based web app that enables two functionalities:
 ```
 
 # 🧰 Dependencies
- -Streamlit: The frontend framework used to create the web application.
- -NLTK: For text preprocessing, including tokenization and stopword removal.
- -Scikit-learn: To perform TF-IDF vectorization and cosine similarity calculations.
- -PyPDF2: For extracting text from PDF resumes.
- -docx2txt: For extracting text from DOCX files.
+ - Streamlit: The frontend framework used to create the web application.
+ - NLTK: For text preprocessing, including tokenization and stopword removal.
+ - Scikit-learn: To perform TF-IDF vectorization and cosine similarity calculations.
+ - PyPDF2: For extracting text from PDF resumes.
+ - docx2txt: For extracting text from DOCX files.
 
 # 🎨 Screenshots 
 https://github.com/user-attachments/assets/ad224223-0591-4268-a55e-59e6662db234
