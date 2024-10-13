@@ -38,14 +38,31 @@ This project is a Streamlit-based web app that enables two functionalities:
  ┗ 📜README.md
 
 ```
-# ***
-# 
+
 # 🧰 Dependencies
  -Streamlit: The frontend framework used to create the web application.
  -NLTK: For text preprocessing, including tokenization and stopword removal.
  -Scikit-learn: To perform TF-IDF vectorization and cosine similarity calculations.
  -PyPDF2: For extracting text from PDF resumes.
  -docx2txt: For extracting text from DOCX files.
+
+# 🎨 Screenshots 
+https://github.com/user-attachments/assets/ad224223-0591-4268-a55e-59e6662db234
+
+# 📋 How to Use
+ ## Resume Screening:
+  - Navigate to the "Resume Screening" page from the sidebar.
+  - Upload your resume and get instant feedback on the predicted job category.
+ ##Resume Matching:
+  - Navigate to the "Resume Matching" page from the sidebar.
+  -Input the job description and upload resumes to find the best matches for the position.
+# 👨‍💻 Author
+ ###Your Name - @Rizon
+# 💡 Fun Fact
+- This app uses cosine similarity to match resumes to a job description. Cosine similarity measures the angle between two vectors in a multi-dimensional space, making it perfect for comparing text documents!
+
+
+
 
 
  
