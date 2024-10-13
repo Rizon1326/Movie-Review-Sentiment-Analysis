@@ -17,13 +17,13 @@ This project is a Streamlit-based web app that enables two functionalities:
  - Display the top-matching resumes.
 
 # 🛠️ Installation
- ### 1.Clone the repository: 
+ ### 1. Clone the repository: 
        https://github.com/Rizon1326/Movie-Review-Sentiment-Analysis.git      
- ### 2.Navigate to the project directory:
+ ### 2. Navigate to the project directory:
        cd resume-screening-matching
- ### 3.Clone the repository:
+ ### 3. Install dependencies:
        pip install -r requirements.txt
- ### 4.Install dependencies:
+ ### 4. Run the app:
        streamlit run app.py
        
 
