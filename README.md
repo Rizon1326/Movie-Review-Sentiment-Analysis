@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/ad224223-0591-4268-a55e-59e6662db234
   - Navigate to the "Resume Matching" page from the sidebar.
   -Input the job description and upload resumes to find the best matches for the position.
 # 👨‍💻 Author
- ###Your Name - @Rizon
+ ### Your Name - @Rizon
 # 💡 Fun Fact
 - This app uses cosine similarity to match resumes to a job description. Cosine similarity measures the angle between two vectors in a multi-dimensional space, making it perfect for comparing text documents!
 
