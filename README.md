@@ -10,3 +10,11 @@ This project is a Streamlit-based web app that enables two functionalities:
  - Upload resumes in .txt or .pdf format.
  - Automatically predicts the job category based on the content.
  - Provides fun facts or tips related to the predicted category.
+
+ ### Resume Matching::
+ - Upload multiple resumes (in .pdf, .docx, or .txt formats).
+ - Compare resumes to a job description using TF-IDF vectorization and cosine similarity.
+ - Display the top-matching resumes.
+   
+
+
