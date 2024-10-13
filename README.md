@@ -27,6 +27,7 @@ This project is a Streamlit-based web app that enables two functionalities:
        streamlit run app.py
 
 # 📂 File Structure
+```bash
    📦resume-screening-matching
  ┣ 📂uploads
  ┣ 📜app.py
