@@ -28,7 +28,7 @@ This project is a Streamlit-based web app that enables two functionalities:
        
 
 # 📂 File Structure
-```bash
+ ```bash
    📦resume-screening-matching
  ┣ 📂uploads
  ┣ 📜app.py
@@ -36,7 +36,9 @@ This project is a Streamlit-based web app that enables two functionalities:
  ┣ 📜tfidf.pkl
  ┣ 📜requirements.txt
  ┗ 📜README.md
-***
+
+```
+# ***
 # 
 # 🧰 Dependencies
  -Streamlit: The frontend framework used to create the web application.
