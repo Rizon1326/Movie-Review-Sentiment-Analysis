@@ -19,6 +19,7 @@ This project is a Streamlit-based web app that enables two functionalities:
 # 🛠️ Installation
  ### 1.Clone the repository:
        # GitHub cloning command
+       https://github.com/Rizon1326/Movie-Review-Sentiment-Analysis.git
        
  ### 2.Navigate to the project directory:
  ### 3.Clone the repository:
