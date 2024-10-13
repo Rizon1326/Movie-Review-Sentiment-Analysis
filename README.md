@@ -26,7 +26,6 @@ This project is a Streamlit-based web app that enables two functionalities:
  ### 4. Run the app:
        streamlit run app.py
        
-
 # 📂 File Structure
  ```bash
    📦resume-screening-matching
@@ -36,7 +35,6 @@ This project is a Streamlit-based web app that enables two functionalities:
  ┣ 📜tfidf.pkl
  ┣ 📜requirements.txt
  ┗ 📜README.md
-
 ```
 
 # 🧰 Dependencies
@@ -53,11 +51,11 @@ https://github.com/user-attachments/assets/ad224223-0591-4268-a55e-59e6662db234
  ## Resume Screening:
   - Navigate to the "Resume Screening" page from the sidebar.
   - Upload your resume and get instant feedback on the predicted job category.
- ##Resume Matching:
+ ## Resume Matching:
   - Navigate to the "Resume Matching" page from the sidebar.
-  -Input the job description and upload resumes to find the best matches for the position.
+  - Input the job description and upload resumes to find the best matches for the position.
 # 👨‍💻 Author
- ### Your Name - @Rizon
+ ### - @Rizon
 # 💡 Fun Fact
 - This app uses cosine similarity to match resumes to a job description. Cosine similarity measures the angle between two vectors in a multi-dimensional space, making it perfect for comparing text documents!
 
