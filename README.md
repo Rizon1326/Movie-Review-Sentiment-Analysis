@@ -15,6 +15,16 @@ This project is a Streamlit-based web app that enables two functionalities:
  - Upload multiple resumes (in .pdf, .docx, or .txt formats).
  - Compare resumes to a job description using TF-IDF vectorization and cosine similarity.
  - Display the top-matching resumes.
+
+# 🛠️ Installation
+ ### 1.Clone the repository:
+       # GitHub cloning command
+       
+ ### 2.Navigate to the project directory:
+ ### 3.Clone the repository:
+ ### 4.Install dependencies:
+ 
+
    
 
 
