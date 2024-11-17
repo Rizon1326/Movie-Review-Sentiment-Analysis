@@ -45,7 +45,7 @@ This project is a Streamlit-based web app that enables two functionalities:
  - docx2txt: For extracting text from DOCX files.
 
 # 🎨 Screenshots 
-(https://github.com/user-attachments/assets/11fad675-0f4a-474c-b77b-b4da69e62ac9)
+https://github.com/user-attachments/assets/11fad675-0f4a-474c-b77b-b4da69e62ac9
 
 # 📋 How to Use
   ## Resume Screening:
